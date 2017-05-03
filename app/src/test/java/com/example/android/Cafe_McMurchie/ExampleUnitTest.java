@@ -1,4 +1,4 @@
-package com.example.android.justjava;
+package com.example.android.Cafe_McMurchie;
 
 import org.junit.Test;
 
